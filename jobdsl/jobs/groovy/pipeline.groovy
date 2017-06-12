@@ -1,4 +1,4 @@
-import lib.JobBuilder
+import job_lib.JobBuilder
 
 import javaposse.jobdsl.dsl.DslFactory
 
